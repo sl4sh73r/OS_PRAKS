@@ -7,6 +7,6 @@ int main(){
     for (int i = 0; i <100000000; i++){
        a += 2*b + c - i; 
     }
-
+    cout<<a;
     return 0; 
 }
